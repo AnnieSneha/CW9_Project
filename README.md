@@ -1,4 +1,4 @@
-# API testing(Rest Assured) and Mobile Testing with Appo=ium Java and Appium WDIO
+# API testing(Rest Assured) and Mobile Testing with Appium Java and Appium WDIO
 
 ## Introduction
 This project focuses on automating the testing of a Chess app and validating API endpoints using REST Assured, Appium, and WebdriverIO. The aim is to ensure the reliability and functionality of the app and its API services through comprehensive test automation.
@@ -16,4 +16,21 @@ Get a hook by ID
 Update a hook
 Delete a hook by ID
 Record status codes and output for each endpoint and log results.
+
+## Technology Stack
+Java  
+Selenium WebDriver  
+REST Assured  
+Appium  
+WebdriverIO
+Maven
+Version Control and Testing Tools Used
+Git
+GitHub
+Selenium
+Spring Tool Suite
+Appium
+Operating System and Browsers Used
+Operating System: Windows
+Browsers: Chrome, Firefox
 
