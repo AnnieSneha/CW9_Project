@@ -3,10 +3,21 @@
 ## Introduction
 This project focuses on automating the testing of a Chess app and validating API endpoints using REST Assured, Appium, and WebdriverIO. The aim is to ensure the reliability and functionality of the app and its API services through comprehensive test automation.
 
-## Project Overview
-### Tasks
-#### API Testing with REST Assured
+## Features
+### API Testing:
+Implemented API tests using REST Assured to validate various endpoints.
+Logged the status codes and output for each API request.
 
+## Mobile App Testing with Appium:
+Developed automated tests for the Chess app using Appium.
+Implemented various user interactions such as touch, tap, scroll, and notifications handling.
+Mobile App Testing with WebdriverIO:
+
+## Configured WebdriverIO for automating mobile app tests.
+Utilized Appium Inspector for locating elements and performing actions in the Chess app.
+
+## Project Overview
+## API Testing with REST Assured
 Validate the API endpoints provided in the mock API at https://posthook-api.mock.beeceptor.com.  
 Tools Required: REST Assured library, Spring Tool Suite or Eclipse.  
 Endpoints to Validate:  
