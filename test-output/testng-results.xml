@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-10-01T12:57:18 IST" name="Default suite" finished-at="2024-10-01T12:57:23 IST" duration-ms="5266">
+    <groups>
+    </groups>
+    <test started-at="2024-10-01T12:57:18 IST" name="Default test" finished-at="2024-10-01T12:57:23 IST" duration-ms="5266">
+      <class name="apiTesting.Biceeptor">
+        <test-method signature="scheduleHook()[pri:0, instance:apiTesting.Biceeptor@25641d39]" started-at="2024-10-01T12:57:18 IST" name="scheduleHook" finished-at="2024-10-01T12:57:20 IST" duration-ms="2412" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scheduleHook -->
+        <test-method signature="getHook()[pri:1, instance:apiTesting.Biceeptor@25641d39]" started-at="2024-10-01T12:57:20 IST" name="getHook" finished-at="2024-10-01T12:57:21 IST" duration-ms="720" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getHook -->
+        <test-method signature="getID()[pri:2, instance:apiTesting.Biceeptor@25641d39]" started-at="2024-10-01T12:57:21 IST" name="getID" finished-at="2024-10-01T12:57:22 IST" duration-ms="694" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getID -->
+        <test-method signature="updateHook()[pri:3, instance:apiTesting.Biceeptor@25641d39]" started-at="2024-10-01T12:57:22 IST" name="updateHook" finished-at="2024-10-01T12:57:22 IST" duration-ms="673" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateHook -->
+        <test-method signature="deleteID()[pri:4, instance:apiTesting.Biceeptor@25641d39]" started-at="2024-10-01T12:57:22 IST" name="deleteID" finished-at="2024-10-01T12:57:23 IST" duration-ms="703" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteID -->
+      </class> <!-- apiTesting.Biceeptor -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
