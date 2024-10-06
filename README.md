@@ -8,12 +8,12 @@ This project focuses on automating the testing of a Chess app and validating API
 Implemented API tests using REST Assured to validate various endpoints.
 Logged the status codes and output for each API request.
 
-## Mobile App Testing with Appium:
+### Mobile App Testing with Appium:
 Developed automated tests for the Chess app using Appium.
 Implemented various user interactions such as touch, tap, scroll, and notifications handling.
 Mobile App Testing with WebdriverIO:
 
-## Configured WebdriverIO for automating mobile app tests.
+### Configured WebdriverIO for automating mobile app tests.
 Utilized Appium Inspector for locating elements and performing actions in the Chess app.
 
 ## Project Overview
